@@ -5,16 +5,16 @@
 
 <br/>
 
-<!-- Terminal-style intro -->
 ```bash
 ┌──(shadipto㉿universe)-[~]
 └─$ whoami
 
-  > Name    : Shadipto Pranto
-  > Role    : CS Student & Aspiring Developer
-  > Status  : Building. Learning. Growing. 🚀
-  > Focus   : Software Engineering & Algorithms
-  > Mode    : Open to internships & collabs ✅
+  > Name       : Shadipto Pranto
+  > Role       : BSc CSE Student — 3rd Year @ AIUB
+  > University : American International University-Bangladesh
+  > Status     : Building. Learning. Growing. 🚀
+  > Focus      : Software Engineering & Algorithms
+  > Mode       : Open to internships & collabs ✅
 ```
 
 ---
@@ -22,9 +22,9 @@
 <!-- Activity Snake -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shadiptoproanto/shadiptoproanto/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shadiptoproanto/shadiptoproanto/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/shadiptoproanto/shadiptoproanto/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shadipto/Shadipto/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shadipto/Shadipto/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Shadipto/Shadipto/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
@@ -37,7 +37,7 @@
 └─$ cat daily_routine.sh
 
   06:00  ☕  Boot up (coffee required)
-  08:00  📚  Attend lectures
+  08:00  📚  Attend lectures @ AIUB
   12:00  💻  Write code, break things
   14:00  🐛  Debug the things I broke
   17:00  🔁  git add . && git commit -m "fix: finally"
@@ -90,12 +90,12 @@
 ## 📊 GitHub at a Glance
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shadiptoproanto&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadiptoproanto&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shadipto&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadipto&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=shadiptoproanto&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Shadipto&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -103,7 +103,7 @@
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shadiptoproanto&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Shadipto&theme=tokyonight&no-frame=true&row=1&column=6" />
 </div>
 
 ---
@@ -114,15 +114,15 @@
 ┌──(shadipto㉿universe)-[~]
 └─$ cat contact.txt
 
-  📧  Email    :  your.email@example.com
-  💼  LinkedIn :  linkedin.com/in/your-link-here
-  🐙  GitHub   :  github.com/shadiptoproanto
+  📧  Email     :  shadipto.pranto@gmail.com
+  🌐  Portfolio :  shadipto.vercel.app
+  🐙  GitHub    :  github.com/Shadipto
 ```
 
 <div align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/your-link-here"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/shadiptoproanto"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:shadipto.pranto@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://shadipto.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://github.com/Shadipto"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
 
 ---
@@ -139,6 +139,6 @@
 └─$ █
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=shadiptoproanto&color=00f7ff&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Shadipto&color=00f7ff&style=flat-square&label=Profile+Views)
 
 </div>

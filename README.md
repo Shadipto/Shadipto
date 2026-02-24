@@ -19,17 +19,6 @@
 
 ---
 
-<!-- Activity Snake -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shadipto/Shadipto/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shadipto/Shadipto/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Shadipto/Shadipto/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
----
-
 ## ⚡ Daily Terminal Life
 
 ```bash
@@ -64,7 +53,7 @@
 ┌──(shadipto㉿universe)-[~]
 └─$ ls ~/skills/languages/
 
-  C++           ████████████░░  Advanced
+  C++           ███████████░░░  Proficient
   Python        ███████████░░░  Proficient
   Java          ████████░░░░░░  Comfortable
   C#            ████████░░░░░░  Comfortable
@@ -96,14 +85,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Shadipto&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shadipto&theme=tokyonight&no-frame=true&row=1&column=6" />
 </div>
 
 ---
